@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">assignment3</string>
+    <string-array name="country_names">
+        <item>Spain</item>
+        <item>Saudi Arabia</item>
+        <item>Egypt</item>
+        <item>India</item>
+        <item>United States</item>
+        <item>Germany</item>
+        <item>United Kingdom</item>
+        <item>Canada</item>
+    </string-array>
+
+</resources>
